@@ -103,7 +103,7 @@ A business website project focused on presenting a company's online presence.
 
 ## 🤝 Let's Connect
 
-I'm open to **Frontend Developer internships, junior developer opportunities, and collaborations** where I can contribute, learn, and grow as a developer.
+I'm open to **Frontend developer opportunities, and collaborations** where I can contribute, learn, and grow as a developer.
 
 <p align="left">
   <a href="https://personal-portfolio-ali.vercel.app/">
