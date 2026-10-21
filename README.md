@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Ali 👋
+# Hi, I'm Ali Shahzad 👋
 
 ### Frontend Developer | Next.js • React • TypeScript
 
